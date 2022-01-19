@@ -1,3 +1,4 @@
+
 # Java_Demo_Junit_Project
 # How to run this project:
 
@@ -14,6 +15,12 @@ Prerequisites:
 5.Give following command:
 
 - Gradle clean test
+
+
+
+
+![junit](https://user-images.githubusercontent.com/78067017/150079410-bd8f6851-3880-4550-9840-d76298d8d9df.PNG)
+
 
 
 
